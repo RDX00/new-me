@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* banner style */
+.banner {
+    background-image: url('../images/banner/banner3.png');
+    text-align: right;
+    background-size: cover;
+    padding: 400px 175px;
+
+}
+
+.banner-title {
+    font-size: 50px;
+    padding: 20px 30px;
+}
+
+.bannar-note {
+    font-size: 20px;
+    color: rgb(214, 228, 194);
+}
+
+.btn-prim {
+    padding: 20px 10px;
+    background-color: rgb(75, 101, 102);
+    border: none;
+    border-radius: 10px;
+    color: rgb(211, 193, 211);
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* past style */
+.my-img {
+    margin: 100px 100px;
+}
+
+.my-past {
+    display: flex;
+    align-items: center;
+}
+
+.past {
+    margin: 300px 300px;
+
+}
+
+.my-title {
+    font-size: 40px;
+    padding: 10px 20px;
+}
+
+.my-note {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: lightskyblue;
+}
+
+.past-extra {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: gray;
+}
+.ext{
+    color: green;
+}
+
+/* plan style */
+.plan {
+    
+    align-items: center;
+
+}
+
+.plan-title {
+    padding-right: 60px;
+    font-size: 40px;
+    text-align: center;
+    
+}
+/* skill container */
+
+.skill-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 100px;
+   
+
+}
+
+.skills {
+    gap: 40px;
+    padding: 20px 30px;
+}
+
+.skill-title {
+    margin-top: 30px;
+}
+
+.skill-note {
+    margin: 20px;
+}
+
+/* mindset style */
+.mindset{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-container{
+    width: 900px;
+    height: 200px;
+    background-image: linear-gradient(to right, rgb(73, 62, 235),rgba(0,0,0,0.5)), url('../images/watch.png');
+    background-size: 100% 100%;
+    box-shadow: 0 10px 20px;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 10px;
+    
+}
+.mindset-container{
+    margin: 30px 40px;
+}
+/* footer style */
+footer {
+    background-color: black;
+    margin-top: 60px;
+    height: 400px;
+    color: rgb(137, 153, 167);
+}
+.future{
+    display: flex;
+    align-items: center;
+    
+
+}
+footer h1{
+    padding: 40px;
+}
+.end{
+    margin-left: 40px;
+}
+input{
+    margin-left: 740px;
+    width: 150px;
+    color: aliceblue;
+    background-color: black;
+    font-size: 18px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border:;
+  
+}
+.input-title{
+    margin-left: 700px;
+    margin-bottom: 0;
+}
+.extra{
+    padding: 40px;
+}
+footer p{
+    margin-top: 10px;
+}
+.extra-img{
+    margin-top: 10px;
+    
+}
+.input-btn{
+    margin-left: 740px;
+    border: none;
+}
+.prim-btn{
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-top: 5px;
+}
